@@ -1,2 +1,2 @@
 key api anyAPi
-your key = 6afae0cb
+your key = API anda yaks

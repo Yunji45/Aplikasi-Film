@@ -6,7 +6,7 @@ function pencarian (){
         type : 'get',
         dataType : 'json',
         data : {
-            'apikey' : '6afae0cb',
+            'apikey' : 'isi dengan API-Key anda',
             's' : $('#search-input').val()
         },
         success : function(penerima){
